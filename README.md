@@ -2,7 +2,7 @@
 # TrovoViewerCounter
 Live Viewer Counter for Streaming Platform [Trovo](https://trovo.live/) (old Madcat)
 
-- Tested in Python 3.8
+- Tested in Python 3.8.3
 - Version: 0.2
 - Last update: 28.06.2020
 
