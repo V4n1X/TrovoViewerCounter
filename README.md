@@ -15,9 +15,9 @@ Live Viewer Counter for Streaming Platform [Trovo](https://trovo.live/) (old Mad
 2. Install needed modules for python
 - Open a powershell window
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
- - `pip install beautifulsoup4`
+  - `pip install beautifulsoup4`
 - [urllib3](https://pypi.org/project/urllib3/)
- - `pip install urllib3`
+  - `pip install urllib3`
 3. Edit TovoViewerCount.py file and replace 
 `streamerURL = "V4n1X"` with your channel name. Don't remove the quotes "" .
 4. Start the script
