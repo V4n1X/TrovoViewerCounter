@@ -4,7 +4,7 @@
 # Last update: 28.06.2020
 # Extracting viewers from trovo.live
 # using web request (#<span data-v-3dfc5312>X viewers</span>)
-# BUG: Starting after 1 minute
+# Updates every 2 sec
 
 #Import everything
 from bs4 import BeautifulSoup
