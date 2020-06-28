@@ -1,4 +1,4 @@
-# Project: TrovoViwerCount4OBS
+# Project: TrovoViewerCount
 # Author: V4n1X (C)2020
 # Version: 0.2
 # Last update: 28.06.2020
