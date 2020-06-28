@@ -1,3 +1,4 @@
+![Trovo](https://static.trovo.live/cat/img/f4bf211.png)
 # TrovoViewerCounter
 Live Viewer Counter for Streaming Platform [Trovo](https://trovo.live/) (old Madcat)
 
