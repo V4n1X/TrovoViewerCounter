@@ -3,8 +3,8 @@
 Live Viewer Counter for Streaming Platform [Trovo](https://trovo.live/) (old Madcat)
 
 - Tested in Python 3.8.3
-- Version: 0.2
-- Last update: 28.06.2020
+- Version: 0.3
+- Last update: 14.07.2020
 
 ## Modules needed:
 - BeautifulSoup4
