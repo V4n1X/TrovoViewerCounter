@@ -1,7 +1,7 @@
 # Project: TrovoViewerCount
 # Author: V4n1X (C)2020
-# Version: 0.2
-# Last update: 28.06.2020
+# Version: 0.3
+# Last update: 14.07.2020
 # Extracting viewers from trovo.live
 # using web request (#<span data-v-3dfc5312>X viewers</span>)
 # Updates every sec
